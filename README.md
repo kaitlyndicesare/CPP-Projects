@@ -1,2 +1,1 @@
-# OOP-Cpp-Project
-Projects for CPP class
+C++ Projecrs for CS-210 (Programming Languages @ SNHU)
