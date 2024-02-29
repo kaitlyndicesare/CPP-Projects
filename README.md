@@ -4,7 +4,7 @@ Plesse see different braches for projects.
 In the current branch, I have uploaded my Corner Grocer code for project 3.
 
 1) Summarize the project and what problem it was solving.
-The project is based on writing code for a grocery store.  The grocery store wants to be able to upload a daily collected summary of customers' purchases and be able to export a backup file, and also   determine the frequency of each item that is purchased.
+<br>The project is based on writing code for a grocery store.  The grocery store wants to be able to upload a daily collected summary of customers' purchases and be able to export a backup file, and also   determine the frequency of each item that is purchased.
 
 2) What did you do particularly well?
 I accomplished the task.  I created code that functions well, is memory safe (used vectors) and secure code (used OOP classes).
